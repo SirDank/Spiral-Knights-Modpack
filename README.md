@@ -1,2 +1,3 @@
-# Spiral-Knights-Modpack
-A modpack for knight launcher > https://github.com/lucas-allegri/KnightLauncher/releases
+A modpack for [Knight Launcher](https://github.com/lucas-allegri/KnightLauncher/releases)!
+
+You can also play Spiral Knights on Android / iOS! More info [here](https://github.com/SirDank/KnightInstaller_iOS)
