@@ -1,0 +1,12 @@
+# Scratch workspace for RE tools, cloned repos, and decompiled jars
+scratch/
+*.class
+*.jfr
+*.hprof
+/mod.json
+**/staging/
+**/build_patcher/
+**/patcher-bin/
+__pycache__/
+*.pyc
+
